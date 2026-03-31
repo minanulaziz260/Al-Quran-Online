@@ -10,8 +10,8 @@
                 </a> dengan murottal
                 <strong>Misyari Rasyid Al-'Afasi</strong>. <br>
                 Untuk informasi lebih lanjut tentang aplikasi ini, silakan kunjungi repositori github saya di
-                <a href="https://github.com/krisdewa" class="text-decoration-none text-warning"
-                    target="_blank">KrisDewa</a>
+                <a href="https://github.com/minanulaziz260" class="text-decoration-none text-warning"
+                    target="_blank">AzizVerse</a>
             </p>
             <!-- <div>
                 <router-link :to="{ name: 'home' }" class="btn btn-warning m-1">Surah</router-link>
